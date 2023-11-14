@@ -36,7 +36,5 @@ document.body.addEventListener('play', (ev) => {
 	fixAds(ev.target);
 }, true);
 
-document.addEventListener('DOMContentLoaded', () => {
-	let video = document.querySelector('video');
-	fixAds(video);
-});
+let video = document.querySelector('video');
+fixAds(video);
