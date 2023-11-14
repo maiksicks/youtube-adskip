@@ -3,7 +3,7 @@ Skip YouTube Ads instead of blocking them.
 
 ## How to install
 
-- (Chrome)[https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked]
+- [Chrome](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
 - Firefox (untested)
 - Opera (untested)
 - Edge (untested)
