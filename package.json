@@ -1,0 +1,17 @@
+{
+  "name": "youtube-adskip",
+  "displayName": "YouTube AdSkip",
+  "author": {
+    "name": "Maik Sicks"
+  },
+  "version": "0.0.1",
+  "description": "Skip YouTube ads instead of blocking them.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "chrome-types": "^0.1.242",
+    "webextension-toolbox": "latest"
+  }
+}
