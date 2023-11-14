@@ -4,7 +4,7 @@
   "author": {
     "name": "Maik Sicks"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Skip YouTube ads instead of blocking them.",
   "scripts": {
     "dev": "webextension-toolbox dev",
